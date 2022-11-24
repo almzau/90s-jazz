@@ -586,6 +586,12 @@
       "settings": {
         "foreground": "#28207d"
       }
+    },
+    {
+      "scope": "variable.other.php",
+      "settings": {
+        "foreground": "#7f44dd"
+      }
     }
   ]
 }
