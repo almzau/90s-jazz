@@ -4,7 +4,7 @@
   "publisher": "almzau",
   "description": "90s nostalgia",
   "repository": "git@github.com:almzau/90s-jazz.git",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.73.0"
   },
